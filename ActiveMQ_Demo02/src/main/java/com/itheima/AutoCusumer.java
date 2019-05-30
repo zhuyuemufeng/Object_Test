@@ -11,8 +11,10 @@ public class AutoCusumer {
         Connection connection = connectionFactory.createConnection();
         connection.start();
         Session session = connection.createSession(false, Session.CLIENT_ACKNOWLEDGE);
+		//设置目标地址
         Destination destination = session.createQueue("frist_queue");
         MessageConsumer consumer = session.createConsumer(destination);
+		//设置监听器，可设置多个Cusumer进行消费
         consumer.setMessageListener(new MessageListener() {
             @Override
             public void onMessage(Message message) {
