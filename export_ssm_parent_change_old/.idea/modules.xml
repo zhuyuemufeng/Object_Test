@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/export_cargo_server/export_cargo_server.iml" filepath="$PROJECT_DIR$/export_cargo_server/export_cargo_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/export_common/export_common.iml" filepath="$PROJECT_DIR$/export_common/export_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/export_companys_server/export_companys_server.iml" filepath="$PROJECT_DIR$/export_companys_server/export_companys_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/export_dao/export_dao.iml" filepath="$PROJECT_DIR$/export_dao/export_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/export_domain/export_domain.iml" filepath="$PROJECT_DIR$/export_domain/export_domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/export_feedback_interface/export_feedback_interface.iml" filepath="$PROJECT_DIR$/export_feedback_interface/export_feedback_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/export_feedback_service/export_feedback_service.iml" filepath="$PROJECT_DIR$/export_feedback_service/export_feedback_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/export_interface/export_interface.iml" filepath="$PROJECT_DIR$/export_interface/export_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/export_interface_cargo/export_interface_cargo.iml" filepath="$PROJECT_DIR$/export_interface_cargo/export_interface_cargo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/export_interface_company/export_interface_company.iml" filepath="$PROJECT_DIR$/export_interface_company/export_interface_company.iml" />
+      <module fileurl="file://$PROJECT_DIR$/export_interface_stat/export_interface_stat.iml" filepath="$PROJECT_DIR$/export_interface_stat/export_interface_stat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/export_interface_system/export_interface_system.iml" filepath="$PROJECT_DIR$/export_interface_system/export_interface_system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/export_jms/export_jms.iml" filepath="$PROJECT_DIR$/export_jms/export_jms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/export_manager_web/export_manager_web.iml" filepath="$PROJECT_DIR$/export_manager_web/export_manager_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/export_portal_web/export_portal_web.iml" filepath="$PROJECT_DIR$/export_portal_web/export_portal_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/export_ssm_parent.iml" filepath="$PROJECT_DIR$/export_ssm_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/export_stat_server/export_stat_server.iml" filepath="$PROJECT_DIR$/export_stat_server/export_stat_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/export_system_server/export_system_server.iml" filepath="$PROJECT_DIR$/export_system_server/export_system_server.iml" />
+    </modules>
+  </component>
+</project>

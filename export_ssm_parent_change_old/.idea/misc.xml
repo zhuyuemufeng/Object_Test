@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/export_cargo_web" />
+    <file type="web" url="file://$PROJECT_DIR$/export_feedback_service" />
+    <file type="web" url="file://$PROJECT_DIR$/export_jms" />
+    <file type="web" url="file://$PROJECT_DIR$/export_manager_web" />
+    <file type="web" url="file://$PROJECT_DIR$/export_portal_web" />
+    <file type="web" url="file://$PROJECT_DIR$/export_stat_server" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/eport_email/pom.xml" />
+        <option value="$PROJECT_DIR$/export_company_server/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
